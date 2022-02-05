@@ -1,0 +1,27 @@
+Syntax: 
+The conditional operator is of the form  
+
+	variable = Expression1 ? Expression2    : Expression3
+		    condition  ? true-statement : false-statement;
+
+
+It can be visualized into if-else statement as:  
+
+if(Expression1)
+{
+    variable = Expression2;
+}
+else
+{
+    variable = Expression3;
+}
+
+
+
+Meaning of the above syntax.
+
+In the above syntax, the expression1 is a Boolean condition that can be either true or false value.
+If the expression1 results into a true value, then the expression2 will execute.
+The expression2 is said to be true only when it returns a non-zero value.
+If the expression1 returns false value then the expression3 will execute.
+The expression3 is said to be false only when it returns zero value.

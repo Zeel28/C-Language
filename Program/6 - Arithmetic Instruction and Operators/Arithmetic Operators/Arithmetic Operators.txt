@@ -1,0 +1,8 @@
+Arithmetic operators in C Language:
+These operators are used to perform arithmetic/mathematical operation and give us results accordingly.
+
++ (Plus) – Give sum as a result. Example: 3+2=5
+– (Minus) – Give the difference as a result. Example: 4-2=2
+* (Asterisk) – Used for multiplication and give the product as a result. Example: 4*2=8
+/ (Forward slash) – Used for division and give quotient as a result. Example: 4/2=2
+% (modulus) – Give the remainder as a result. Example: 7%2=1
